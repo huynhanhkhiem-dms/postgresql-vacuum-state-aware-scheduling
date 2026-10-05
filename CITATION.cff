@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated article and this software repository."
+title: "State-Aware Scheduling for PostgreSQL VACUUM: Reproducibility Artifacts"
+type: software
+authors:
+  - family-names: "Huynh"
+    given-names: "Anh Khiem"
+    orcid: "https://orcid.org/0009-0007-7210-174X"
+    affiliation: "Faculty of Information Technology, Ton Duc Thang University"
+repository-code: "https://github.com/huynhanhkhiem-dms/postgresql-vacuum-state-aware-scheduling"
+date-released: 2026-10-05

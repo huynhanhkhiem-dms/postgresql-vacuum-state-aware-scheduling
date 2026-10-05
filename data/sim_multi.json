@@ -1,0 +1,151 @@
+{
+ "runs": [
+  {
+   "seed": 0,
+   "pg16": {
+    "io_per_tick": 22.14718149117006,
+    "space_per_tick": 193.5242546128827,
+    "total_per_tick": 215.67143610405276
+   },
+   "pg19": {
+    "io_per_tick": 22.286659133264678,
+    "space_per_tick": 193.40823433835834,
+    "total_per_tick": 215.694893471623
+   },
+   "count_ratio": {
+    "io_per_tick": 22.10789443894526,
+    "space_per_tick": 193.04501304340803,
+    "total_per_tick": 215.1529074823533
+   },
+   "star_catalog": {
+    "io_per_tick": 48.64577745183979,
+    "space_per_tick": 42.13611620518877,
+    "total_per_tick": 90.78189365702856
+   },
+   "ratio": {
+    "io_per_tick": 49.054935547218435,
+    "space_per_tick": 24.234203918529083,
+    "total_per_tick": 73.28913946574752
+   }
+  },
+  {
+   "seed": 1,
+   "pg16": {
+    "io_per_tick": 23.481228086754975,
+    "space_per_tick": 90.28753569050076,
+    "total_per_tick": 113.76876377725574
+   },
+   "pg19": {
+    "io_per_tick": 23.738571946394337,
+    "space_per_tick": 89.60822078575583,
+    "total_per_tick": 113.34679273215016
+   },
+   "count_ratio": {
+    "io_per_tick": 23.343112592030746,
+    "space_per_tick": 89.53506709405083,
+    "total_per_tick": 112.87817968608158
+   },
+   "star_catalog": {
+    "io_per_tick": 49.57715564625812,
+    "space_per_tick": 53.448968348292766,
+    "total_per_tick": 103.02612399455089
+   },
+   "ratio": {
+    "io_per_tick": 50.29343856702731,
+    "space_per_tick": 27.13814390612635,
+    "total_per_tick": 77.43158247315365
+   }
+  },
+  {
+   "seed": 2,
+   "pg16": {
+    "io_per_tick": 21.202479112605182,
+    "space_per_tick": 190.88505545295973,
+    "total_per_tick": 212.0875345655649
+   },
+   "pg19": {
+    "io_per_tick": 21.255988916888153,
+    "space_per_tick": 190.691280028399,
+    "total_per_tick": 211.94726894528716
+   },
+   "count_ratio": {
+    "io_per_tick": 21.283948592174834,
+    "space_per_tick": 190.42726985658155,
+    "total_per_tick": 211.71121844875637
+   },
+   "star_catalog": {
+    "io_per_tick": 49.77475334808568,
+    "space_per_tick": 188.056355554636,
+    "total_per_tick": 237.8311089027217
+   },
+   "ratio": {
+    "io_per_tick": 49.44611483091247,
+    "space_per_tick": 40.00549216337309,
+    "total_per_tick": 89.45160699428556
+   }
+  },
+  {
+   "seed": 3,
+   "pg16": {
+    "io_per_tick": 18.75845192801689,
+    "space_per_tick": 111.03534142077314,
+    "total_per_tick": 129.79379334879002
+   },
+   "pg19": {
+    "io_per_tick": 18.979858033839584,
+    "space_per_tick": 111.05585888421683,
+    "total_per_tick": 130.0357169180564
+   },
+   "count_ratio": {
+    "io_per_tick": 18.850153490288182,
+    "space_per_tick": 110.99146631658861,
+    "total_per_tick": 129.8416198068768
+   },
+   "star_catalog": {
+    "io_per_tick": 48.38191913368288,
+    "space_per_tick": 13.313316672642264,
+    "total_per_tick": 61.695235806325144
+   },
+   "ratio": {
+    "io_per_tick": 49.16678291230781,
+    "space_per_tick": 11.591459921360556,
+    "total_per_tick": 60.75824283366836
+   }
+  },
+  {
+   "seed": 4,
+   "pg16": {
+    "io_per_tick": 15.923278990829697,
+    "space_per_tick": 98.89518061646439,
+    "total_per_tick": 114.81845960729409
+   },
+   "pg19": {
+    "io_per_tick": 15.961679831219564,
+    "space_per_tick": 98.89054026056469,
+    "total_per_tick": 114.85222009178426
+   },
+   "count_ratio": {
+    "io_per_tick": 15.972289084231875,
+    "space_per_tick": 98.86288125603896,
+    "total_per_tick": 114.83517034027084
+   },
+   "star_catalog": {
+    "io_per_tick": 44.25184607350153,
+    "space_per_tick": 15.625582403810869,
+    "total_per_tick": 59.8774284773124
+   },
+   "ratio": {
+    "io_per_tick": 45.680750429674646,
+    "space_per_tick": 13.218521741107537,
+    "total_per_tick": 58.89927217078218
+   }
+  }
+ ],
+ "means": {
+  "pg16": 157.2279974805915,
+  "pg19": 157.1753784317802,
+  "count_ratio": 156.88381915286777,
+  "star_catalog": 110.64235816758773,
+  "ratio": 71.96596878752746
+ }
+}
